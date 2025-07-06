@@ -1,8 +1,11 @@
 **Analytical Tools** --- Microsoft Excel
+
+
 Working as Junior Data Analyst at RetailTech Insights, a company that provides 
 e-commerce analytics solutions to sellers on platforms like Amazon. Your team has been 
 tasked with analysing product and customer review data to generate insights that can 
 guide product improvement, marketing strategies, and customer engagement 
+
 
 **KEY OBJECTIVES OF THE PROJECT**
 Identify average discount percentage by product category
@@ -24,6 +27,7 @@ Build an interactive dashboard for stakeholders decision
 *Focus more on categories with lots of reviews and good ratings.
 *Promote products wih high ratings but low reviews.
 *Income leakage based on poor ratings
+
 
 **Conclusion**
 In conclusion, our analysis reveals KPI To drive business growth, as recommended above. Let's leverage these insights to inform our strategy and drive success. attacached is my analytical dashboard 
